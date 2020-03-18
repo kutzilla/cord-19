@@ -1,0 +1,7 @@
+md5: ee9ef402cec81cbe5e33a37cded5dde4
+outs:
+- md5: abc2c3656b7bcb562c9200490919bf8e
+  path: CORD-19-research-challenge.zip
+  cache: true
+  metric: false
+  persist: false
